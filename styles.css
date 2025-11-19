@@ -1,0 +1,84 @@
+#cuteness {
+    margin: auto;
+    padding: 50px 100px 100px 100px;
+}
+
+/*Attempted multiple ways with both css and bootstrap utilities to change the text color of the navbar, but it would not work. Adjusted color scheme to work with black lettering instead */
+
+nav {
+    background-color: rgb(185, 155, 185);
+    color: antiquewhite;
+    font-weight: bold;
+
+}
+
+
+
+h1 {
+    display: flex;
+    font-family: "Rum Raisin", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 7vw;
+}
+
+h2 {
+    display: flex;
+    font-family: "Rum Raisin", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5vw;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+h3 {
+      font-family: "Rum Raisin", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4vw;
+}
+
+h5 {
+
+    font-family: "Rum Raisin", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2vw;
+}
+
+#services {
+    padding: 25px 100px 100px 100px;
+}
+
+
+.card-body {
+    text-align: center;
+    background-color: rgb(185, 155, 185);
+     border: 2px solid black;
+}
+
+.card img {
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+
+#pricing {
+    padding: 25px 100px 100px 100px;
+    background-color: rgb(185, 155, 185);
+}
+
+#faq {
+    padding: 25px 100px 100px 100px;
+}
+
+.accordion {
+    border: 2px solid black;
+}
+
+.accordion-header {
+    background-color: rgb(185, 155, 185);
+}
